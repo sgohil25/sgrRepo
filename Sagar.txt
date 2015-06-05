@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I discard
+=======
+I am modifing the file. second merge
+>>>>>>> aa402284bc8a3bb1e4f95b20bdfba67ddfa580a8
